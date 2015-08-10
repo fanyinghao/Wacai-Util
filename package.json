@@ -1,0 +1,18 @@
+{
+  "name": "FYH.Financing.WacaiUtil",
+  "version": "0.1.0",
+  "description": "FYH.Financing.WacaiUtil",
+  "main": "app.js",
+  "author": {
+    "name": "Fan Yinghao",
+    "email": "fanyinghao@gmail.com"
+  },
+  "dependencies": {
+    "async": "^1.4.0",
+    "bookshelf": "^0.8.1",
+    "knex": "^0.8.6",
+    "sqlite3": "^3.0.9",
+    "uuid": "^2.0.1",
+    "xlsx": "^0.8.0"
+  }
+}
